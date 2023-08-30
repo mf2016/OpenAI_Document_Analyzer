@@ -1,0 +1,32 @@
+{
+    "1": {},
+    "2": {
+        "Refer the blog https://azure.microsoft.com/en-us/documentation/articles/automation- secconfigure-azure-runas-account/ for the steps.": ":unselected:",
+        "Creation of ServicePrincipal has a propensity to fail randomly. A basic verification whether it was successfully created is mandatory": ":unselected:"
+    },
+    "3": {
+        "scheduleingestion": "9/1/7376-11:10 AM",
+        "Schedades": "0 0\n0 6"
+    },
+    "4": {},
+    "5": {},
+    "6": {
+        "Read all groups": ":selected:",
+        "Read directory data": ":selected:",
+        "Read and write directory data": ":selected:",
+        "Read all users' full profiles": ":selected:",
+        "Read all identity risk event information": ":selected:"
+    },
+    "7": {
+        "Read all users' full profiles": ":selected:"
+    },
+    "8": {
+        "Yes": ":selected:"
+    },
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {}
+}

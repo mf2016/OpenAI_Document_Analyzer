@@ -1,0 +1,73 @@
+{
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {
+        "Considered Al for our research": ":selected:",
+        "Less": ":unselected:",
+        "More": ":selected:"
+    },
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {
+        "Essential": ":selected:",
+        "Relevant": ":selected:"
+    },
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {
+        "Average": "62"
+    },
+    "18": {},
+    "19": {
+        "Range": ":unselected:"
+    },
+    "20": {
+        "At least monthly": ":selected:",
+        "At least weekly": ":selected:"
+    },
+    "21": {},
+    "22": {
+        "Retail\nTransport\nand": ":selected:",
+        "-Oil and gas": ":unselected:"
+    },
+    "23": {},
+    "24": {},
+    "25": {},
+    "26": {},
+    "27": {},
+    "28": {},
+    "29": {
+        "Marketing and sales": "0.1-0.2",
+        "Risk": "0-0.1",
+        "Finance and IT": "<0.05",
+        "operations": "<0.05",
+        "HR": "<0.05",
+        "management": "0-0.1",
+        "lead generation": "<0.05",
+        "Fraud and debt analytics": "0-0.1",
+        "Next product to buy (NPTB)": "<0.05",
+        "Analytics- driven finance\nand IT": "<0.05",
+        "Analytics- driven hiring\nand retention": "<0.05",
+        "Workforce productivity": "<0.05",
+        "Churn reduction": "0.05",
+        "Pricing and promotion": "<0.05"
+    },
+    "30": {},
+    "31": {},
+    "32": {},
+    "33": {},
+    "34": {},
+    "35": {},
+    "36": {
+        "@Mckinsey_MGI": ":selected:",
+        "f MckinseyGlobalInstitute": ":selected:"
+    }
+}
